@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614009116 source:c:\users\panos\desktop\domesdedomenwn\lab1\testsetproject\testset.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
